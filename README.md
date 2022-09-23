@@ -31,3 +31,7 @@ A *branch* `master` (agora chamada de `main`) é a *branch* “padrão” quando
 #### 8.	Quais são os comandos usados para atualizar um repositório local e fazer *merge* de um outro *branch* ao seu *branch* ativo?
 
 Para atualizar um repositório local utiliza-se o comando `git pull` e para fazer *merge* de um outro *branch* ao seu *branch* ativo utiliza-se o comando `git merge`.
+
+#### 9.	Qual a diferença entre Git e GitHub?
+
+O Git é um sistema de controle de versões e o GitHub é um serviço que fornece a possibilidade de se criar repositórios Git.
