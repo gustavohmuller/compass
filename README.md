@@ -75,3 +75,7 @@ Não há uma ferramenta própria do Flutter para o desenvolvimento de aplicativo
 #### 18. Qual a diferença entre uma variável `final` e uma variável `var`?
 
 Uma variável `final` não permite que o seu valor seja alterado e uma variável `var` reconhece o tipo da variável conforme o seu valor.
+
+#### 19. Qual a diferença entre um `Statefull` e `Stateless` *widget*?
+
+O `Statefull` é um *widget* completamente dinâmico que dá o poder de torná-lo mutável através da gerência de estados e o `Stateless` é um *widget* estático, ou seja, não há como gerenciar o estado dele.
