@@ -47,3 +47,11 @@ O *status code* que pode ser usado na criação de um novo usuário é o 201 (*C
 #### 12. Quais são os três *status code* que podem ser utilizados para realizar o *delete*?
 
 Os três *status code* que podem ser utilizados para realizar o *delete* são: 200 (*OK*), 202 (*Accepted*) e 204 (*No Content*).
+
+#### 13. Exemplifique para que servem os *status code* http 1XX, 2XX, 3XX, 4XX e 5XX de uma forma macro (geral)!
+
+* 1XX: informativo – a solicitação foi aceita ou o processo continua em andamento;
+* 2XX: confirmação – a ação foi concluída ou entendida;
+* 3XX: redirecionamento – indica que algo mais precisa ser feito ou precisou ser feito para completar a solicitação;
+* 4XX: erro do cliente – indica que a solicitação não pode ser concluída ou contém a sintaxe incorreta;
+* 5XX: erro no servidor – o servidor falhou ao concluir a solicitação.
