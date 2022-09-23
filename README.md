@@ -87,3 +87,7 @@ O gerenciamento de estado é responsável por observar um certo objeto e notific
 #### 21. Qual a finalidade dos métodos `initState` e `dispose`?
 
 O método `initState` é chamado na criação do *widget*, quando o *widget* é inserido na *widget tree*, e o método `dispose` é chamado quando o *widget* for removido da *widget tree* permanentemente.
+
+#### 22. Conta para a gente como foi sua experiência na Sprint#01 do programa de bolsas @Flutter-set.22 e quais suas expectativas a partir de agora.
+
+Na Sprint#01 do programa de bolsas @Flutter-set.22 pude aprender um pouco sobre metodologias ágeis, com foco no Scrum, Dart, Flutter e Git e GitHub. Minhas expectativas a partir de agora são aprimorar esses conhecimentos e colocá-los em prática nos projetos das próximas Sprints.
