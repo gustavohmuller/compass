@@ -59,3 +59,7 @@ Os três *status code* que podem ser utilizados para realizar o *delete* são: 2
 #### 14. O que é a linguagem de programação Dart?
 
 Dart é uma linguagem de programação criada para nos comunicarmos com a máquina. Ela é interoperável, ou seja, consegue se comunicar com outra linguagem, orientada a objetos, conta com uma sintaxe muito simples e uma ótima performance.
+
+#### 15. O que é o Flutter?
+
+Flutter é um *toolkit* que permite construir aplicações e compilar de maneira nativa para ambiente *mobile*, *web* e *desktop*.
