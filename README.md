@@ -27,3 +27,7 @@ Para propor mudanças (adicioná-las ao *Index*) no Git utiliza-se o comando `gi
 #### 7.	O que é a *branch* `master` e para que serve?
 
 A *branch* `master` (agora chamada de `main`) é a *branch* “padrão” quando se cria um repositório. É interessante separar o desenvolvimento de funcionalidades em *branches* diferentes para que as mudanças no código para uma não influenciem no funcionamento de outra.
+
+#### 8.	Quais são os comandos usados para atualizar um repositório local e fazer *merge* de um outro *branch* ao seu *branch* ativo?
+
+Para atualizar um repositório local utiliza-se o comando `git pull` e para fazer *merge* de um outro *branch* ao seu *branch* ativo utiliza-se o comando `git merge`.
