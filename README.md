@@ -63,3 +63,7 @@ Dart é uma linguagem de programação criada para nos comunicarmos com a máqui
 #### 15. O que é o Flutter?
 
 Flutter é um *toolkit* que permite construir aplicações e compilar de maneira nativa para ambiente *mobile*, *web* e *desktop*.
+
+#### 16. Como inicio um novo projeto com Flutter?
+
+Para iniciar um novo projeto com Flutter utiliza-se o comando `flutter create` em um prompt ou terminal.
