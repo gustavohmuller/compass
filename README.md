@@ -55,3 +55,7 @@ Os três *status code* que podem ser utilizados para realizar o *delete* são: 2
 * 3XX: redirecionamento – indica que algo mais precisa ser feito ou precisou ser feito para completar a solicitação;
 * 4XX: erro do cliente – indica que a solicitação não pode ser concluída ou contém a sintaxe incorreta;
 * 5XX: erro no servidor – o servidor falhou ao concluir a solicitação.
+
+#### 14. O que é a linguagem de programação Dart?
+
+Dart é uma linguagem de programação criada para nos comunicarmos com a máquina. Ela é interoperável, ou seja, consegue se comunicar com outra linguagem, orientada a objetos, conta com uma sintaxe muito simples e uma ótima performance.
