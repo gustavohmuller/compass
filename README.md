@@ -43,3 +43,7 @@ Os dois verbos http que se pode utilizar para realizar um *update* são: PUT e P
 #### 11. Qual o *status code* que pode ser usado na criação de um novo usuário?
 
 O *status code* que pode ser usado na criação de um novo usuário é o 201 (*Created*).
+
+#### 12. Quais são os três *status code* que podem ser utilizados para realizar o *delete*?
+
+Os três *status code* que podem ser utilizados para realizar o *delete* são: 200 (*OK*), 202 (*Accepted*) e 204 (*No Content*).
