@@ -23,3 +23,7 @@ Para a criação de um novo repositório no Git utiliza-se o comando `git init`.
 #### 6.	Com o Git você pode propor mudanças (adicioná-las ao *Index*) usando um comando. Qual é esse comando?
 
 Para propor mudanças (adicioná-las ao *Index*) no Git utiliza-se o comando `git add`.
+
+#### 7.	O que é a *branch* `master` e para que serve?
+
+A *branch* `master` (agora chamada de `main`) é a *branch* “padrão” quando se cria um repositório. É interessante separar o desenvolvimento de funcionalidades em *branches* diferentes para que as mudanças no código para uma não influenciem no funcionamento de outra.
