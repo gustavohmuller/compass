@@ -67,3 +67,7 @@ Flutter é um *toolkit* que permite construir aplicações e compilar de maneira
 #### 16. Como inicio um novo projeto com Flutter?
 
 Para iniciar um novo projeto com Flutter utiliza-se o comando `flutter create` em um prompt ou terminal.
+
+#### 17. Quais ferramentas podemos utilizar para criação de novos *apps* usando Flutter?
+
+Não há uma ferramenta própria do Flutter para o desenvolvimento de aplicativos, mas existem ferramentas que atualmente são muito utilizadas pela maioria dos desenvolvedores, como o Android Studio, IntelliJ ou Visual Studio Code.
