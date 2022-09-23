@@ -79,3 +79,7 @@ Uma variável `final` não permite que o seu valor seja alterado e uma variável
 #### 19. Qual a diferença entre um `Statefull` e `Stateless` *widget*?
 
 O `Statefull` é um *widget* completamente dinâmico que dá o poder de torná-lo mutável através da gerência de estados e o `Stateless` é um *widget* estático, ou seja, não há como gerenciar o estado dele.
+
+#### 20. Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática?
+
+O gerenciamento de estado é responsável por observar um certo objeto e notificar todos os componentes interessados se esse objeto mudou, para que eles se atualizem.
