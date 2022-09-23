@@ -11,3 +11,7 @@ O Scrum é composto por Sprints, que são os *time-boxes* base do Scrum. A Sprin
 #### 3.	O que é Git?
 
 O Git é um sistema de controle de versões.
+
+#### 4.	O que é um Scrum *Product Owner*? 
+
+O *Product Owner* é o representante do cliente em um time de Scrum. Ele é quem escutará as diversas opiniões dos clientes e chegará em funcionalidades que façam sentido para os negócios, de maneira a maximizar valor, captando ideias e prioridades do cliente.
