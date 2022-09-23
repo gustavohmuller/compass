@@ -83,3 +83,7 @@ O `Statefull` é um *widget* completamente dinâmico que dá o poder de torná-l
 #### 20. Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática?
 
 O gerenciamento de estado é responsável por observar um certo objeto e notificar todos os componentes interessados se esse objeto mudou, para que eles se atualizem.
+
+#### 21. Qual a finalidade dos métodos `initState` e `dispose`?
+
+O método `initState` é chamado na criação do *widget*, quando o *widget* é inserido na *widget tree*, e o método `dispose` é chamado quando o *widget* for removido da *widget tree* permanentemente.
