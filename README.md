@@ -19,3 +19,7 @@ O *Product Owner* é o representante do cliente em um time de Scrum. Ele é quem
 #### 5.	Qual o comando para criação de um novo repositório no Git?
 
 Para a criação de um novo repositório no Git utiliza-se o comando `git init`.
+
+#### 6.	Com o Git você pode propor mudanças (adicioná-las ao *Index*) usando um comando. Qual é esse comando?
+
+Para propor mudanças (adicioná-las ao *Index*) no Git utiliza-se o comando `git add`.
