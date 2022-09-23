@@ -71,3 +71,7 @@ Para iniciar um novo projeto com Flutter utiliza-se o comando `flutter create` e
 #### 17. Quais ferramentas podemos utilizar para criação de novos *apps* usando Flutter?
 
 Não há uma ferramenta própria do Flutter para o desenvolvimento de aplicativos, mas existem ferramentas que atualmente são muito utilizadas pela maioria dos desenvolvedores, como o Android Studio, IntelliJ ou Visual Studio Code.
+
+#### 18. Qual a diferença entre uma variável `final` e uma variável `var`?
+
+Uma variável `final` não permite que o seu valor seja alterado e uma variável `var` reconhece o tipo da variável conforme o seu valor.
