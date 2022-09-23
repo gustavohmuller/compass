@@ -35,3 +35,7 @@ Para atualizar um repositório local utiliza-se o comando `git pull` e para faze
 #### 9.	Qual a diferença entre Git e GitHub?
 
 O Git é um sistema de controle de versões e o GitHub é um serviço que fornece a possibilidade de se criar repositórios Git.
+
+#### 10. Quais os dois verbos http que podemos utilizar para realizar um *update*? Explique a diferença entre eles.
+
+Os dois verbos http que se pode utilizar para realizar um *update* são: PUT e POST. O verbo PUT é normalmente usado com parâmetro para editar um recurso e o verbo POST é geralmente usado sem parâmetro para criar um recurso. Pela documentação, PUT é utilizado para criar ou editar um recurso, enquanto POST pode ser utilizado para qualquer coisa, cabendo ao back-end a definição dessa semântica.
